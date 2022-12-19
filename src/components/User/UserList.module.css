@@ -1,0 +1,24 @@
+.btnPrimary {
+  background: #516ddb;
+  text-decoration: none;
+  padding: 10px;
+  color: #ffffff;
+  font-weight: 500;
+  letter-spacing: 1px;
+  border-radius: 3px;
+  margin-right: 5px;
+}
+.btnPrimary:hover {
+  color: #ffffff;
+}
+.btnDanger {
+  background: #d83c3c;
+  text-decoration: none;
+  padding: 8px;
+  color: #ffffff;
+  font-weight: 500;
+  letter-spacing: 1px;
+  border-radius: 3px;
+  margin-right: 5px;
+  border: 0;
+}

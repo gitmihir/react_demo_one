@@ -1,0 +1,26 @@
+.navbarbrand {
+  color: #ffffff;
+  text-decoration: none;
+  font-size: 25px;
+  letter-spacing: 1px;
+  font-weight: 600;
+}
+.navlink {
+  color: rgba(255, 255, 255, 0.75);
+  font-weight: 500;
+  text-decoration: none;
+  margin: 0px 10px 0px 20px;
+  letter-spacing: 1px;
+  line-height: 3;
+}
+.navlink.active {
+  color: #ffffff;
+}
+.logoutbtn {
+  color: #ffffff;
+  font-weight: 500;
+  padding: 0;
+  background: transparent;
+  border: 0;
+  margin-left: 20px;
+}
